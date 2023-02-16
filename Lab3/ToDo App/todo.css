@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+}
+header{
+    height: 50px;
+    color: gray;
+    background-color: black;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+main{
+    padding: 40px 300px 0 350px  ;
+    height:50px;
+}
+main .newtask{
+    width:500px;
+    padding: 8px;
+    margin: 20px 40px 40px 40px;
+    margin-right: 40px;
+
+    border: 2px solid black;
+    border-radius: 4px;
+}
+/* main .newtask:focus{
+    outline: none;
+    border-color: 4px solid red;
+    border-radius: 5px;
+} */
+#push{
+    background-color: #0d75ec;
+    border: none;
+    border-radius: 3px;
+    color: aliceblue;
+    padding: 8px;
+}
+#push:hover{
+    background-color: #7dbafc;
+}
+
+.task1{
+    border: 2px solid black;
+    height: 45px;
+    /* display: flex;
+    justify-content: space-between; */
+    padding: 12px;
+}
+main .span{
+    padding: 0px 0px 0px 30px;
+}
+
+
+
+
